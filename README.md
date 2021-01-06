@@ -1,3 +1,3 @@
 # designofc
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/designofc)
+[Makeupday ⚡️](https://designofc.stackblitz.io)
